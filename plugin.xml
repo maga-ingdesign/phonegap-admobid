@@ -49,7 +49,7 @@
     <source-file src="src/android/AdMobAdsAppPurchaseListener.java" target-dir="src/com/appfeel/cordova/admob" />
     <source-file src="src/android/res/xml/admob.xml" target-dir="res/xml" />
     
-    <framework src="buildplugin.gradle" custom="true" type="gradleReference" />
+    
     
   </platform>
 
