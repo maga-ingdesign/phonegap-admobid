@@ -49,7 +49,7 @@
     <source-file src="src/android/AdMobAdsAppPurchaseListener.java" target-dir="src/com/appfeel/cordova/admob" />
     <source-file src="src/android/res/xml/admob.xml" target-dir="res/xml" />
     
-    <framework src="com.yandex.android:mobileads:2.110" />
+    <framework src="com.yandex.android:mobileads:2.111" />
     <framework src="com.yandex.android:mobmetricalib:3.8.0" />
     <framework src="com.yandex.ads.adapter:admob-mobileads:0.1.2" />
     
